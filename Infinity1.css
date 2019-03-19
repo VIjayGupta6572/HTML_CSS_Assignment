@@ -1,0 +1,81 @@
+.a{
+    text-align: center;
+}
+.b{
+    display: block;
+    background: red;
+    padding: 20px;
+    font-size:10px;
+    color:black
+    
+    
+}
+.c{
+    display: block;
+    margin: 100px,40px,100px,40px;
+    background: yellow;
+    padding: 40px;
+    font-size:10px;
+    color:black;
+    text-align: center;
+    font-size: 200%;
+    
+    
+    
+}
+.d{
+    
+    display: block;
+    margin: 20px,40px,20px,40px;
+    background:green;
+    padding: 40px;
+    font-size:10px;
+    color:black
+    
+    
+}
+.k{
+  padding: 1rem;  
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-size: 200%;
+    
+}
+.k img{
+    max-width: 100%;
+    height: auto;
+    
+}
+.polaroid{
+    width:30%;
+    display:inline-block;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    
+}
+.abc{
+    text-align: center;
+    color: red;
+
+}
+.l{
+padding: 1rem;  
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-size: 200%;
+}
+.l img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+.last{
+    text-align: center;
+    font-display: bold;
+    color:green;
+    font-size: 250%;
+}
+.dropdown
+{
+    font-size: 200%;
+}
